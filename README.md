@@ -87,9 +87,11 @@ I'm a passionate software developer who enjoys building scalable applications, a
 
 ---
 
+
 ## 📈 Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Satwik934&theme=tokyo-night&hide_border=true)
+[![GitHub Contributions](https://ghchart.rshah.org/7aa2f7/Satwik934)](https://github.com/Satwik934)
+
 
 ---
 
